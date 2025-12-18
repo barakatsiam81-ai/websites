@@ -1,4 +1,4 @@
----
+adb shell sh /sdcard/Android/data/moe.shizuku.privileged.api/start.sh
 home: true
 heroImage: /logo.png
 actionText: Learn more
